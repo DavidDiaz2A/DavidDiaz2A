@@ -1,6 +1,7 @@
 # Hola, soy David 😎👺🐱‍👤🐒
 ### And Im an Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=96>](https://www.cevbarcelona.com/)
 
+<img src="https://www.dqcolor.es/curvas_vinilos_decorativos/784-3.png">
 ![GitHub Followers](https://img.shields.io/github/followers/DavidDiaz2A?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/DavidDiaz2A?style=social)
 [![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
