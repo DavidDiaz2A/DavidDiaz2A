@@ -1,10 +1,11 @@
 # Hola, soy David 😎👺🐱‍👤🐒
 
 <img src="https://www.dqcolor.es/curvas_vinilos_decorativos/784-3.png">
-<img src="https://dotroom.tumblr.com/post/71148180048/next">
+
 
 ### Estudio en [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
+<img src="https://dotroom.tumblr.com/post/71148180048/next">
 
 ![GitHub Followers](https://img.shields.io/github/followers/DavidDiaz2A?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/DavidDiaz2A?style=social)
