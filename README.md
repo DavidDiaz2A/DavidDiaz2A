@@ -1,6 +1,7 @@
 # Hola, soy David 😎👺🐱‍👤🐒
 
 <img src="https://www.dqcolor.es/curvas_vinilos_decorativos/784-3.png">
+<img src="https://dotroom.tumblr.com/post/71148180048/next">
 
 ### Estudio en [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
@@ -11,7 +12,7 @@
 
 <br>
 
-## Estos son unos softwares que utilizo:
+## Estos son los softwares que utilizo:
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
 [![Audition](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
