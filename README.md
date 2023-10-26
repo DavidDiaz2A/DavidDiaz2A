@@ -2,7 +2,7 @@
 
 <img src="https://www.dqcolor.es/curvas_vinilos_decorativos/784-3.png">
 
-### And Im an Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=96>](https://www.cevbarcelona.com/)
+### And Im an Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/DavidDiaz2A?style=social)
