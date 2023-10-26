@@ -1,5 +1,5 @@
 # Hola, soy David 😎👺🐱‍👤🐒
-### And Im an Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+### And Im an Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=96>](https://www.cevbarcelona.com/)
 
 ![GitHub Followers](https://img.shields.io/github/followers/DavidDiaz2A?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/DavidDiaz2A?style=social)
