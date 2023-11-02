@@ -51,8 +51,8 @@
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	<a href="https://www.playstation.com/es-es/games/the-last-of-us-remastered/">
+  		<img src="https://www.mundodeportivo.com/alfabeta/hero/2023/08/the-last-of-us-tattoo.jpg?width=1200&aspect_ratio=16:9">
 	</a>
 	</td>
 	</td>
