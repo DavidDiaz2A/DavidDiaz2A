@@ -59,13 +59,13 @@
     </tr>
     <tr>
     <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+	<a href="https://www.playstation.com/es-es/games/marvels-spider-man-remastered/">
+  		<img src="https://img.asmedia.epimg.net/resizer/7r32tgTCVq2lb_4WB1J8kUA0y0k=/480x250/as01.epimg.net/meristation/imagenes/2020/10/01/header_image/459928871601550796.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	<a href="https://www.playstation.com/es-es/games/sekiro-shadows-die-twice/">
+  		<img src="https://img.asmedia.epimg.net/resizer/Z2CxtS9pjQeGSfDGL1MOq-r2hfA=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/ZIPN6TANZFOCBJVI4JI7U4UR5U.jpg">
 	</a>
   </tr>
 </table>
