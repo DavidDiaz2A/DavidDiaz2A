@@ -40,7 +40,7 @@
 	</td>
   <td>
 	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+  		<img src="https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1698860631">
 	</a>
 	</td>
   </tr>
