@@ -39,15 +39,15 @@
 	</a>
 	</td>
   <td>
-	<a href="https://www.labyrinthinegame.com/">
+	<a href="https://www.counter-strike.net/cs2?l=spanish">
   		<img src="https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1698860631">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	<a href="https://playvalorant.com/es-es/?gad=1&gclid=CjwKCAjwkY2qBhBDEiwAoQXK5RNO6EVKgGlwieKSuQ92yWqmuPMROXLfhl2dCCNWfmphku-haHfGOBoCb6sQAvD_BwE&gclsrc=aw.ds">
+  		<img src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/06/02/5fa91dbc37517.png">
 	</a>
 	</td>
 	<td>
