@@ -8,11 +8,10 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/DavidDiaz2A?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/DavidDiaz2A?style=social)
-[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
-
+[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/m_diazzzzzzz)
+[![](https://img.shields.io/badge/ArtStation-FFFFFF?style=social&logo=artstation&logoColor=13AFF0)](https://www.artstation.com/m_diazzzzzz)
 <br>
-##Este es mi artstation:
-<a href="https://m_diazzzzzz.artstation.com/">
+>
 
 ## Estos son los softwares que utilizo:
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
